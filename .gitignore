@@ -434,3 +434,4 @@ $RECYCLE.BIN/
 
 # Ionide
 */.ionide/
+.ionide/*
