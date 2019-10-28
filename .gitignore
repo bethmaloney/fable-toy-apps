@@ -435,3 +435,4 @@ $RECYCLE.BIN/
 # Ionide
 */.ionide/
 .ionide/*
+*/deploy/*
